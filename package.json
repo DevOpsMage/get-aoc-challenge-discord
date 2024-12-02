@@ -1,0 +1,16 @@
+{
+  "name": "get-aoc-challenge-bot",
+  "version": "1.0.0",
+  "main": "aoc-challenge-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "form-data": "^4.0.1",
+    "node-fetch": "^2.7.0"
+  }
+}
